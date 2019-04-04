@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/squat"
+        android:icon="@drawable/s_icon"
+        android:title="@string/squat" />
+
+    <item
+        android:id="@+id/bench"
+        android:icon="@drawable/b_icon"
+        android:title="@string/bench" />
+
+    <item
+        android:id="@+id/deadlift"
+        android:icon="@drawable/d_icon"
+        android:title="@string/deadlift" />
+
+</menu>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My SBD</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="squat">Squat</string>
+    <string name="bench">Bench</string>
+    <string name="deadlift">Deadlift</string>
+
+    <string name="add_log">Add Log</string>
+    <string name="edit_log">Edit Log</string>
+
+    <string name="session_no">Session No</string>
+    <string name="week">Week No</string>
+    <string name="date">Date</string>
+    <string name="weight">Weight (KG)</string>
+    <string name="reps">Reps</string>
+
+    <string name="add_entry">Add</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
